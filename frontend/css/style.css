@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+  padding: 16px;
+}
+
+.card {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.button {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 12px;
+  background: #000;
+  color: #fff;
+  text-decoration: none;
+}
+
+.whatsapp {
+  background: #25D366;
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 20px;
+  }
+
+  .button {
+    width: 100%;
+    text-align: center;
+  }
+}
