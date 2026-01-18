@@ -9,6 +9,7 @@ redirects = []
 [build]
 publish = "/home/billionare/job-board-complete/frontend/frontend"
 publishOrigin = "config"
+base = "/home/billionare/job-board-complete/frontend"
 
 [build.environment]
 
