@@ -168,3 +168,9 @@ h1, h2, h3 {
     line-height: 1.6;
   }
 }
+.button.whatsapp.shared {
+  background: #000;
+}
+.button.whatsapp.shared:hover {
+  opacity: 0.9;
+}
